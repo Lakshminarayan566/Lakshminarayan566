@@ -84,12 +84,13 @@ I build and evaluate **machine learning and deep learning systems** with a focus
   <img src="https://github-readme-stats.vercel.app/api?username=Lakshminarayan566&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshminarayan566&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshminarayan566&theme=tokyonight&hide_border=true" width="55%" />
 </p>
 
+
 ---
+
 
 ## 🎯 Interests
 
@@ -97,6 +98,15 @@ I build and evaluate **machine learning and deep learning systems** with a focus
 
 ---
 
+
+📅 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshminarayan566&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
 <p align="center">
   <i>Always open to interesting research problems and collaborations — feel free to reach out!</i>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" />
 </p>
