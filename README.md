@@ -1,112 +1,161 @@
 <h1 align="center">Hi, I'm Maridi Lakshmi Narayana 👋</h1>
 
 <p align="center">
-  <b>B.Tech — Artificial Intelligence & Machine Learning</b><br/>
+  <b>B.Tech in Artificial Intelligence & Machine Learning</b><br/>
   Vishnu Institute of Technology, India
 </p>
 
 <p align="center">
   <a href="mailto:luckymaridis@gmail.com">
-    <img src="https://img.shields.io/badge/Email-luckymaridis%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-luckymaridis%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Lakshminarayan566">
-    <img src="https://img.shields.io/badge/GitHub-Lakshminarayan566-181717?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Lakshminarayan566-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Lakshminarayan566&style=flat-square&color=blue" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🔬 About Me
 
-I build and evaluate **machine learning and deep learning systems** with a focus on healthcare AI, computer vision, and NLP/RAG pipelines. I enjoy turning high-dimensional datasets into reproducible experiments and clear, interpretable conclusions.
+I am an **Artificial Intelligence & Machine Learning undergraduate** with research and engineering experience in **Generative AI, RAG, Computer Vision, Deep Learning, and Remote Sensing**.
 
-- 🔬 Currently working on: **Healthcare AI & Biomarker Discovery**
-- 📚 Learning: **Advanced RAG systems & LLM fine-tuning**
-- 🎯 Open to: **ML/AI internships, research internships & short research collaborations**
+My work focuses on building and evaluating AI systems for real-world problems, with particular interests in:
 
----
+- **Trustworthy AI & Intelligent Software Systems**
+- **Large Language Models, RAG & Agentic AI**
+- **Cybersecurity & AI-based Threat Detection**
+- **Computer Vision & Deep Learning**
+- **Remote Sensing & Scientific Machine Learning**
 
-## 🛠️ Tech Stack
-
-**Languages & Tools**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-
-**ML / DL Frameworks**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**Specialisations**
-
-![CNNs](https://img.shields.io/badge/CNNs-Computer%20Vision-blue?style=flat-square)
-![LSTMs](https://img.shields.io/badge/LSTMs-Sequence%20Modelling-green?style=flat-square)
-![Transformers](https://img.shields.io/badge/Transformers-NLP-orange?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20AI-purple?style=flat-square)
+I am particularly interested in research problems that combine **AI with software systems, cybersecurity, scientific computing, and real-world data**.
 
 ---
 
-## 🚀 Featured Projects
+## 🎓 Education
 
-### 🧬 [Gene Expression Cancer Classification](https://github.com/Lakshminarayan566/gene_expression_cancer_classification)
-> End-to-end ML pipeline classifying **5 cancer subtypes** from real TCGA RNA-Seq data
-
-- **96.89% accuracy** across 801 real patient samples × 20,531 genes
-- SVM + Random Forest with PCA, ANOVA feature selection & biomarker discovery
-- Identified **69 differentially expressed genes** as cancer biomarkers
+**Vishnu Institute of Technology, Bhimavaram**  
+B.Tech in Artificial Intelligence & Machine Learning  
+**CGPA: 8.69 / 10.0** | 2023 – 2027
 
 ---
 
-### 🖼️ [Image Caption Generator](https://github.com/Lakshminarayan566/ai-chatbot)
-> Deep learning model for automatic image → text generation
+## 🛰️ Research Experience
 
-- CNN encoder + LSTM decoder architecture
-- Full training pipeline with evaluation metrics included
+### Research Intern — National Remote Sensing Centre (NRSC), ISRO
+**May 2026 – July 2026**
 
----
-
-### 🔍 [LocalRAG](https://github.com/Lakshminarayan566/rag_in_git)
-> Retrieval-Augmented Generation system built for local & secure use
-
-- Enables LLM-powered Q&A over private documents without cloud dependency
-- Built with a focus on reproducibility and offline deployment
+- Developed an end-to-end **GOFLOW-based deep learning pipeline** for ocean surface current estimation using Himawari-9 and INSAT-3D satellite observations.
+- Reproduced and evaluated a **U-Net-based deep learning model** against Copernicus Marine reference data.
+- Performed data preprocessing, feature engineering, model implementation, visualization, and quantitative evaluation using Python, Xarray, NetCDF, NumPy, and Matplotlib.
+- Analyzed seasonal variability in estimated ocean surface currents across thousands of satellite observations.
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Generative AI Experience
+
+### GenAI Engineering Program — DataValley
+
+- Implemented **Retrieval-Augmented Generation (RAG)**, semantic search, embeddings, vector databases, and LLM-based applications.
+- Explored retrieval optimization through **indexing, batching, caching, and inference benchmarking**.
+- Worked on AI systems focused on retrieval quality, efficiency, and practical deployment.
+
+---
+
+## 🚀 Featured Research Projects
+
+### 🔍 [LocalRAG — Code Intelligence](https://github.com/Lakshminarayan566/LocalRAG)
+
+**Python · FastAPI · React · Ollama · ChromaDB · Tree-sitter**
+
+A privacy-first, offline code intelligence system for repository-grounded LLM analysis.
+
+- Engineered a **syntax-aware hybrid retrieval pipeline** using Tree-sitter chunking, BM25, vector search, and Reciprocal Rank Fusion (RRF).
+- Achieved **70.7% Precision@5** on the PrivaRepo evaluation corpus.
+- Implemented cross-encoder reranking and local LLM inference for repository-grounded analysis.
+- Built REST APIs, CLI tooling, and streaming responses for multi-repository code intelligence.
+
+---
+
+### 🛰️ [Surveillance Object Detection for Defence Applications](https://github.com/Lakshminarayan566/surveillance-object-detection-yolov8)
+
+**YOLOv8 · SAHI · OpenCV · Deep Learning · Computer Vision**
+
+- Developed a **YOLOv8-L object detection pipeline** on the VisDrone dataset.
+- Achieved **50% mAP@0.5 across 10 classes** under challenging occlusion and viewpoint shifts.
+- Improved small-object detection using **SAHI sliced inference** and optimized confidence thresholds.
+- Built evaluation workflows for systematic performance analysis.
+
+---
+
+### 🧬 Gene Expression Cancer Classification
+
+**Machine Learning · Bioinformatics · High-Dimensional Data**
+
+- Developed an ML pipeline for classifying **5 cancer subtypes** using TCGA RNA-Seq data.
+- Achieved **96.89% accuracy** across 801 patient samples and 20,531 genes.
+- Applied dimensionality reduction and feature-selection techniques for high-dimensional biological data.
+- Investigated differentially expressed genes for potential biomarker discovery.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming & Core CS
+Python · Java · C · SQL · Data Structures & Algorithms · OOP · DBMS · Operating Systems · Probability & Statistics
+
+### Generative AI & LLM Systems
+RAG · LLMs · Agentic AI · Semantic Search · Embeddings · Vector Databases · Local LLM Inference · Retrieval Optimization
+
+### Machine Learning & Deep Learning
+Scikit-learn · PyTorch · TensorFlow · CNNs · LSTMs · Transformers · Model Evaluation
+
+### Computer Vision
+YOLOv8 · SAHI · OpenCV · Image Classification · Object Detection · Semantic Segmentation
+
+### Scientific & Data Computing
+NumPy · Pandas · Matplotlib · Xarray · NetCDF · Remote Sensing
+
+### Development
+FastAPI · React · REST APIs · Git · GitHub · Ollama · ChromaDB · Tree-sitter
+
+---
+
+## 🏆 Achievements
+
+- **Paper Presentation Winner** — Hypertension Prediction using Machine Learning Techniques
+- **1st Place** — Institutional-level Logo Design Award competition
+- Solved **400+ LeetCode problems** across Data Structures & Algorithms topics
+
+---
+
+## 🔬 Research Interests
+
+`Large Language Models`
+`RAG & Retrieval Systems`
+`Agentic AI`
+`Trustworthy AI`
+`Cybersecurity & AI`
+`Computer Vision`
+`Deep Learning`
+`Remote Sensing`
+`Scientific Machine Learning`
+`Intelligent Software Systems`
+
+---
+
+## 📌 Current Focus
+
+Currently exploring:
+
+- Advanced **RAG and retrieval architectures**
+- **LLM-based software intelligence**
+- **Agentic AI systems**
+- AI for **cybersecurity and software security**
+- Research-oriented applications of **computer vision and deep learning**
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakshminarayan566&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshminarayan566&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshminarayan566&theme=tokyonight&hide_border=true" width="55%" />
-</p>
-
-
----
-
-
-## 🎯 Interests
-
-`Machine Learning Research` &nbsp; `Computer Vision` &nbsp; `Natural Language Processing` &nbsp; `Healthcare AI` &nbsp; `Reproducible ML`
-
----
-
-
-📅 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshminarayan566&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
-
-<p align="center">
-  <i>Always open to interesting research problems and collaborations — feel free to reach out!</i>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" />
+  <i>Interested in research problems at the intersection of AI, intelligent software systems, cybersecurity, computer vision, and scientific applications of machine learning.</i>
 </p>
