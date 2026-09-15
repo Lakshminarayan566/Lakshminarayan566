@@ -86,9 +86,17 @@ A privacy-first, offline code intelligence system for repository-grounded LLM an
 - Improved small-object detection using **SAHI sliced inference** and optimized confidence thresholds.
 - Built evaluation workflows for systematic performance analysis.
 
+### 🛰️ [GOFLOW Resolution Analysis](https://github.com/Lakshminarayan566/GOFLOW-Resolution-Analysis)
+
+**GOFLOW · U-Net · Himawari-9 · Remote Sensing · Oceanography · Deep Learning**
+
+- Conducted resolution-sensitivity analysis using 2 km and 9 km Himawari-9 SST data over the North Bay of Bengal.
+- Analyzed submesoscale thermal fronts using SST-derived features including Thermal Front Magnitude (TFM) and LogFront.
+- Evaluated GOFLOW (U-Net) for ocean surface current estimation across different spatial resolutions.
+- Quantified the impact of SST spatial resolution on thermal-front structures and ocean surface current estimation performance.
 ---
 
-### 🧬 Gene Expression Cancer Classification
+### 🧬 [Gene Expression Cancer Classification](https://github.com/Lakshminarayan566/Gene-Expression-Cancer-Classification)
 
 **Machine Learning · Bioinformatics · High-Dimensional Data**
 
