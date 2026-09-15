@@ -64,6 +64,45 @@ B.Tech in Artificial Intelligence & Machine Learning
 
 ## 🚀 Featured Research Projects
 
+### 🛰️ [GOFLOW Resolution Analysis](https://github.com/Lakshminarayan566/GOFLOW-Resolution-Analysis)
+
+**GOFLOW · U-Net · Himawari-9 · Remote Sensing · Oceanography · Deep Learning**
+
+- Conducted resolution-sensitivity analysis using 2 km and 9 km Himawari-9 SST data over the North Bay of Bengal.
+- Analyzed submesoscale thermal fronts using SST-derived features including Thermal Front Magnitude (TFM) and LogFront.
+- Evaluated GOFLOW (U-Net) for ocean surface current estimation across different spatial resolutions.
+- Quantified the impact of SST spatial resolution on thermal-front structures and ocean surface current estimation performance.
+---
+### 🧬 [Gene Expression Cancer Classification](https://github.com/Lakshminarayan566/Gene-Expression-Cancer-Classification)
+
+**Machine Learning · Bioinformatics · High-Dimensional Data**
+
+- Developed an ML pipeline for classifying **5 cancer subtypes** using TCGA RNA-Seq data.
+- Achieved **96.89% accuracy** across 801 patient samples and 20,531 genes.
+- Applied dimensionality reduction and feature-selection techniques for high-dimensional biological data.
+- Investigated differentially expressed genes for potential biomarker discovery.
+---
+### 🛰️ [Surveillance Object Detection for Defence Applications](https://github.com/Lakshminarayan566/surveillance-object-detection-yolov8)
+
+**YOLOv8 · SAHI · OpenCV · Deep Learning · Computer Vision**
+
+- Developed a **YOLOv8-L object detection pipeline** on the VisDrone dataset.
+- Achieved **50% mAP@0.5 across 10 classes** under challenging occlusion and viewpoint shifts.
+- Improved small-object detection using **SAHI sliced inference** and optimized confidence thresholds.
+- Built evaluation workflows for systematic performance analysis.
+
+---
+### 🛰️ [Satellite Land-Cover Classification](https://github.com/Lakshminarayan566/Satellite-Land-Cover-Classification)
+
+**Remote Sensing · CNN · ResNet18 · EfficientNet-B0 · Deep Learning · Grad-CAM**
+
+- Developed a deep learning pipeline for satellite image land-cover classification using the EuroSAT dataset.
+- Evaluated CNN, ResNet18, and EfficientNet-B0 models for multi-class land-cover classification.
+- Achieved 98.2% overall accuracy (κ = 0.98) with the evaluated deep learning models.
+- Applied Grad-CAM explainability and spectral indices including NDVI, NDWI, and NDBI for model interpretation and geospatial analysis.
+---
+## 🤖 AI / Software Engineering
+
 ### 🔍 [LocalRAG — Code Intelligence](https://github.com/Lakshminarayan566/LocalRAG)
 
 **Python · FastAPI · React · Ollama · ChromaDB · Tree-sitter**
@@ -75,37 +114,6 @@ A privacy-first, offline code intelligence system for repository-grounded LLM an
 - Implemented cross-encoder reranking and local LLM inference for repository-grounded analysis.
 - Built REST APIs, CLI tooling, and streaming responses for multi-repository code intelligence.
 
----
-
-### 🛰️ [Surveillance Object Detection for Defence Applications](https://github.com/Lakshminarayan566/surveillance-object-detection-yolov8)
-
-**YOLOv8 · SAHI · OpenCV · Deep Learning · Computer Vision**
-
-- Developed a **YOLOv8-L object detection pipeline** on the VisDrone dataset.
-- Achieved **50% mAP@0.5 across 10 classes** under challenging occlusion and viewpoint shifts.
-- Improved small-object detection using **SAHI sliced inference** and optimized confidence thresholds.
-- Built evaluation workflows for systematic performance analysis.
-
-### 🛰️ [GOFLOW Resolution Analysis](https://github.com/Lakshminarayan566/GOFLOW-Resolution-Analysis)
-
-**GOFLOW · U-Net · Himawari-9 · Remote Sensing · Oceanography · Deep Learning**
-
-- Conducted resolution-sensitivity analysis using 2 km and 9 km Himawari-9 SST data over the North Bay of Bengal.
-- Analyzed submesoscale thermal fronts using SST-derived features including Thermal Front Magnitude (TFM) and LogFront.
-- Evaluated GOFLOW (U-Net) for ocean surface current estimation across different spatial resolutions.
-- Quantified the impact of SST spatial resolution on thermal-front structures and ocean surface current estimation performance.
----
-
-### 🧬 [Gene Expression Cancer Classification](https://github.com/Lakshminarayan566/Gene-Expression-Cancer-Classification)
-
-**Machine Learning · Bioinformatics · High-Dimensional Data**
-
-- Developed an ML pipeline for classifying **5 cancer subtypes** using TCGA RNA-Seq data.
-- Achieved **96.89% accuracy** across 801 patient samples and 20,531 genes.
-- Applied dimensionality reduction and feature-selection techniques for high-dimensional biological data.
-- Investigated differentially expressed genes for potential biomarker discovery.
-
----
 
 ## 🛠️ Technical Skills
 
