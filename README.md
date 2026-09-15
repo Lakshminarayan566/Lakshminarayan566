@@ -114,6 +114,7 @@ A privacy-first, offline code intelligence system for repository-grounded LLM an
 - Implemented cross-encoder reranking and local LLM inference for repository-grounded analysis.
 - Built REST APIs, CLI tooling, and streaming responses for multi-repository code intelligence.
 
+--- 
 
 ## 🛠️ Technical Skills
 
