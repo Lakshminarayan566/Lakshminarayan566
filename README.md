@@ -76,15 +76,15 @@ I am particularly interested in research problems at the intersection of **AI, s
 - Quantified the impact of **SST spatial resolution** on thermal-front structures and ocean surface current estimation performance.
 
 ---
+## 🛡️ [Network Intrusion Detection System](https://github.com/Lakshminarayan566/network-intrusion-detection)
 
-## 🧬 [Gene Expression Cancer Classification](https://github.com/Lakshminarayan566/Gene-Expression-Cancer-Classification)
+**Python · Scikit-learn · Machine Learning · Cybersecurity · Explainable AI**
 
-**Machine Learning · Bioinformatics · High-Dimensional Data**
+- Developed an ML-based Network Intrusion Detection System using Random Forest, Extra Trees, AdaBoost, and Logistic Regression on the NSL-    KDD benchmark dataset.
+- Engineered 16 domain-specific security features from 41 raw features to capture DoS, Probe, R2L, and U2R attack characteristics.
+- Achieved 93.15% accuracy, 0.9219 F1-score, and 0.9752 ROC-AUC with Random Forest, with 5-fold CV F1 = 0.9157 ± 0.0067.
+- Built model evaluation and explainability workflows with ROC curves, confusion matrices, feature importance, PCA visualization, precision-recall analysis, and attack-profile dashboards.
 
-- Developed an ML pipeline for classifying **5 cancer subtypes** using **TCGA RNA-Seq data**.
-- Achieved **96.89% accuracy** across **801 patient samples and 20,531 genes**.
-- Applied dimensionality reduction and feature-selection techniques for **high-dimensional biological data**.
-- Investigated **differentially expressed genes** for potential biomarker discovery.
 
 ---
 
@@ -109,6 +109,15 @@ I am particularly interested in research problems at the intersection of **AI, s
 - Applied **Grad-CAM** explainability and spectral indices including **NDVI, NDWI, and NDBI** for model interpretation and geospatial analysis.
 
 ---
+## 🧬 [Gene Expression Cancer Classification](https://github.com/Lakshminarayan566/Gene-Expression-Cancer-Classification)
+
+**Machine Learning · Bioinformatics · High-Dimensional Data**
+
+- Developed an ML pipeline for classifying **5 cancer subtypes** using **TCGA RNA-Seq data**.
+- Achieved **96.89% accuracy** across **801 patient samples and 20,531 genes**.
+- Applied dimensionality reduction and feature-selection techniques for **high-dimensional biological data**.
+- Investigated **differentially expressed genes** for potential biomarker discovery.
+---
 
 # 🤖 AI & Software Engineering
 
@@ -124,15 +133,25 @@ A privacy-first, offline code intelligence system for repository-grounded LLM an
 - Built **REST APIs, CLI tooling, and streaming responses** for multi-repository code intelligence.
 
 ---
-## 🛡️ [Network Intrusion Detection System](https://github.com/Lakshminarayan566/network-intrusion-detection)
+## 🤖 [AutoStream Agent — Social-to-Lead Agentic Workflow](https://github.com/Lakshminarayan566/autostream-agent)
 
-**Python · Scikit-learn · Machine Learning · Cybersecurity · Explainable AI**
+**Python · Intent Classification · Rule-Based Retrieval · Stateful Agent Design**
 
-- Developed an ML-based Network Intrusion Detection System using Random Forest, Extra Trees, AdaBoost, and Logistic Regression on the NSL-    KDD benchmark dataset.
-- Engineered 16 domain-specific security features from 41 raw features to capture DoS, Probe, R2L, and U2R attack characteristics.
-- Achieved 93.15% accuracy, 0.9219 F1-score, and 0.9752 ROC-AUC with Random Forest, with 5-fold CV F1 = 0.9157 ± 0.0067.
-- Built model evaluation and explainability workflows with ROC curves, confusion matrices, feature importance, PCA visualization, precision-recall analysis, and attack-profile dashboards.
+A modular, multi-layer conversational agent that converts user interactions into qualified sales leads through a structured decision pipeline.
 
+- Designed a five-layer agent architecture — intent classification, knowledge retrieval, decision logic, conversation memory, and tool        execution — built in pure Python for full transparency into agent reasoning.
+- Implemented multi-turn context awareness, allowing the agent to track conversation history and adjust responses based on prior turns.
+- Built a structured tool-execution layer that triggers lead capture only after intent and required fields are confirmed, demonstrating       controlled action-taking rather than open-ended generation.
+---
+## 🔎 [GitBrain AI — RAG Code Intelligence](https://github.com/Lakshminarayan566/rag_in_git)
+
+**Python · FastAPI · LangChain · ChromaDB · Groq/Llama · HuggingFace Sentence Transformers**
+
+A cloud-based RAG system for indexing GitHub repositories and answering natural-language questions about their codebase.
+
+- Built an end-to-end RAG pipeline — repository cloning, code chunking, embedding generation, and ChromaDB vector storage — enabling          semantic retrieval over indexed codebases.
+- Integrated Groq-hosted LLM inference with a FastAPI backend to generate grounded, context-aware answers to natural-language code queries.
+----------
 # 🛠️ Technical Skills
 
 ### Programming & Core CS
