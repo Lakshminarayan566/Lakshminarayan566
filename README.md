@@ -180,12 +180,11 @@ A privacy-first, offline code intelligence system for repository-grounded LLM an
 
 Currently exploring:
 
-- Advanced **RAG and retrieval architectures**
-- **LLM-based software intelligence**
-- **Agentic AI systems**
-- AI for **cybersecurity and software security**
-- Research-oriented applications of **computer vision and deep learning**
-
+- **Generative AI, RAG & retrieval systems**
+- **LLM-based software and code intelligence**
+- **Agentic AI & intelligent workflow systems**
+- **AI for cybersecurity and software security**
+- **Computer vision, deep learning & scientific ML**
 ---
 
 <p align="center">
