@@ -124,6 +124,14 @@ A privacy-first, offline code intelligence system for repository-grounded LLM an
 - Built **REST APIs, CLI tooling, and streaming responses** for multi-repository code intelligence.
 
 ---
+## 🛡️ [Network Intrusion Detection System](https://github.com/Lakshminarayan566/network-intrusion-detection)
+
+**Python · Scikit-learn · Machine Learning · Cybersecurity · Explainable AI**
+
+- Developed an ML-based Network Intrusion Detection System using Random Forest, Extra Trees, AdaBoost, and Logistic Regression on the NSL-    KDD benchmark dataset.
+- Engineered 16 domain-specific security features from 41 raw features to capture DoS, Probe, R2L, and U2R attack characteristics.
+- Achieved 93.15% accuracy, 0.9219 F1-score, and 0.9752 ROC-AUC with Random Forest, with 5-fold CV F1 = 0.9157 ± 0.0067.
+- Built model evaluation and explainability workflows with ROC curves, confusion matrices, feature importance, PCA visualization, precision-recall analysis, and attack-profile dashboards.
 
 # 🛠️ Technical Skills
 
