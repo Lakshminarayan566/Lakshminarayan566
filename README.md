@@ -133,15 +133,14 @@ A privacy-first, offline code intelligence system for repository-grounded LLM an
 - Built **REST APIs, CLI tooling, and streaming responses** for multi-repository code intelligence.
 
 ---
-## 🤖 [AutoStream Agent — Social-to-Lead Agentic Workflow](https://github.com/Lakshminarayan566/autostream-agent)
+## 🔎 [AI Product Ops Research Agent](https://github.com/Lakshminarayan566/composio-ai-product-ops-takehome)
 
-**Python · Intent Classification · Rule-Based Retrieval · Stateful Agent Design**
+**Python · Agentic AI · LLMs · Web Research · Automation · LLM Evaluation**
 
-A modular, multi-layer conversational agent that converts user interactions into qualified sales leads through a structured decision pipeline.
+An AI-driven research pipeline for analyzing 100 SaaS apps across authentication, API surface, MCP support, access model, and integration buildability.
 
-- Designed a five-layer agent architecture — intent classification, knowledge retrieval, decision logic, conversation memory, and tool        execution — built in pure Python for full transparency into agent reasoning.
-- Implemented multi-turn context awareness, allowing the agent to track conversation history and adjust responses based on prior turns.
-- Built a structured tool-execution layer that triggers lead capture only after intent and required fields are confirmed, demonstrating       controlled action-taking rather than open-ended generation.
+- Built an automated research agent combining web research and structured LLM extraction to analyze **100 apps**, identifying **63 easy-win integrations** and **14 outreach candidates**.
+- Implemented targeted verification against official documentation, **validating 19 of 20 sampled apps** while documenting agent misses, unresolved cases, and human-review requirements.
 ---
 ## 🔎 [GitBrain AI — RAG Code Intelligence](https://github.com/Lakshminarayan566/rag_in_git)
 
