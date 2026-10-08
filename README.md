@@ -123,15 +123,14 @@ I am particularly interested in research problems at the intersection of **AI, s
 
 ## 🔍 [LocalRAG — Code Intelligence](https://github.com/Lakshminarayan566/LocalRAG)
 
-**Python · FastAPI · React · Ollama · ChromaDB · Tree-sitter**
+**Python · React · FastAPI · Ollama · ChromaDB · Tree-sitter · Docker · pytest**
 
-A privacy-first, offline code intelligence system for repository-grounded LLM analysis.
+A privacy-first, fully local code intelligence system for multi-repository, repository-grounded LLM analysis.
 
 - Engineered a **syntax-aware hybrid retrieval pipeline** using Tree-sitter chunking, BM25, vector search, and **Reciprocal Rank Fusion (RRF)**.
 - Achieved **70.7% Precision@5** on the PrivaRepo evaluation corpus.
-- Implemented **cross-encoder reranking** and local LLM inference for repository-grounded analysis.
-- Built **REST APIs, CLI tooling, and streaming responses** for multi-repository code intelligence.
-
+- Implemented **cross-encoder reranking**, local LLM inference, and **Dockerized deployment** for repository-grounded analysis.
+- Built **REST APIs, CLI tooling, streaming responses, and GitHub Actions CI** for multi-repository code intelligence.
 ---
 ## 🔎 [AI Product Ops Research Agent](https://github.com/Lakshminarayan566/composio-ai-product-ops-takehome)
 
